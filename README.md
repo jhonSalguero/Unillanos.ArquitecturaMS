@@ -1,2 +1,1 @@
 # Unillanos.EquitecturaMS
-# Unillanos.EquitecturaMS

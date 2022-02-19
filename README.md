@@ -1,4 +1,4 @@
-# Unillanos.EquitecturaMS
+# Unillanos.ArquitecturaMS
 
 # Integrantes:
 Jhon Edisson Salguero Pinzon - 160004049
